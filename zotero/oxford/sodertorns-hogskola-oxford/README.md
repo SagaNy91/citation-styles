@@ -8,7 +8,7 @@ Generellt sätt så gäller det att inte ha med information som inte behövs. Al
 ### Organisation som författare
 Rapporter är ibland författade av en myndighet eller en annan organisation. Detsamma gäller för till exempel webbsidor, blogg- och foruminlägg och dataset, som kan sakna en namngiven författare.
 
-Ange då organisationens namn i fältet för Författarens efternamn. Om du inte vill att organisationen omnämns en gång till, ta bort organisationen från fältet utgivare eller titel på sida/forum/uppslagsverk/ordbok (eller motsvarande).
+Ange då organisationens namn i fältet för Författarens efternamn.
 ### DOI för publikationstyperna avhandling, bok, kapitel i bok och rapport
 Inte alla publikationstyper i Zotero har fältet DOI. Om du till exempel ska referera till ett exempelvis ett kapitel i en bok, fyller du i kapitlets DOI i fältet Extra:
 
@@ -82,7 +82,7 @@ In general, it is important not to include information that is not needed. This 
 ### Organisation as author
 Some reports are sometimes authored by a government agency or another organisation. The same applies to web pages, blog posts, forum posts, and datasets, which may not have a named author.
 
-In this case, enter the organisation's name in the Author surname field. If you do not want the organisation to be mentioned again, remove it from the publisher field or the title of the page/forum/encyclopaedia/dictionary/equivalent field.
+In this case, enter the organisation's name in the Author surname field.
 ### DOI for books, book chapters, reports, and theses
 Not all publication types in Zotero have the DOI field. If you want to refer to a chapter in a book, for example, where the chapter itself has a DOI, enter the DOI in the Extra field:
 
