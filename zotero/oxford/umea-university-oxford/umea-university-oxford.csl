@@ -504,7 +504,7 @@
           </date>
         </group>
       </else-if>
-      <else-if type="book chapter entry-dictionary legal_case map paper-conference report" match="any">
+      <else-if type="book chapter entry-dictionary map paper-conference report" match="any">
         <group delimiter=", " prefix=". ">
           <choose>
             <if variable="publisher" match="any">
@@ -518,7 +518,7 @@
           </choose>
         </group>
       </else-if>
-      <else-if type="article bill dataset graphic legislation motion_picture paper-conference song thesis" match="any">
+      <else-if type="article dataset graphic motion_picture paper-conference song thesis" match="any">
         <group delimiter=", " prefix=". ">
           <choose>
             <if variable="publisher" match="any">
