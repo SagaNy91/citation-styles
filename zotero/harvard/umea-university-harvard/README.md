@@ -1,9 +1,20 @@
 # Guide till Harvardmallen från Umeå universitet
 [Documentation in English further down]
 ## Inledning
-Den här dokumentationen beskriver hur du använder Zotero-stilmallen Umeå University - Harvard. Du hittar stilen bland Zoteros bibliotek för stilmallar: http://www.zotero.org/styles/umea-university-harvard
+Den här dokumentationen beskriver hur du använder Zotero-stilmallen Umeå University - Harvard.
 
 Generellt sätt så gäller det att inte ha med information som inte behövs. Alltså kan du behöva redigera en post i Zotero efter att du har importerat en referens. Till exempel så brukar URL-länkar följa med vid import och inkluderas ofta när du skapar en referens, men det är inte alltid du behöver ha med en länk i referensen.
+## Hur du installerar stilen
+1. Klicka på umea-university-harvard.csl ovan.
+2. Välj ”Download raw file” uppe till höger.
+3. Öppna Zotero-programmet och gå till Redigera > Inställningar > Källhänvisa.
+4. Klicka på ”+” bredvid ”Få ytterligare stilar”. 
+5. Bläddra till mappen där filen hämtats ned och klicka på csl-filen.
+6. Klicka på OK.
+
+Stilen är nu redo att börja användas. Om du vill skapa referenser direkt i ditt Worddokument behöver du först installera ett plugin. Du väljer sedan stilen under ”Document preferences” i Word.
+
+Du hittar information om plugins för ordbehandlingsprogram på [Zoteros webbplats](https://www.zotero.org/support/word_processor_integration).
 ## Manuella justeringar du kan behöva göra
 ### Organisation som författare
 Rapporter är ibland författade av en myndighet eller en annan organisation. Detsamma gäller för till exempel webbsidor, blogg- och foruminlägg och dataset, som kan sakna en namngiven författare.
@@ -75,9 +86,20 @@ von Linné, C. (1748). Letter 22 August 1748, Uppsala to Jean François Séguier
 
 # Guide to the Umeå University Harvard style
 ## Introduction
-This documentation guides how you use the Zotero style Umeå University - Harvard. You can find the style and download it from the Zotero style repository: http://www.zotero.org/styles/umea-university-harvard
+This documentation guides how you use the Zotero style Umeå University - Harvard.
 
 In general, it is important not to include information that is not needed. This means that you may need to edit a record in Zotero after you have imported a reference. For example, URL links are usually included in the import and are often automatically included in references, but you don't always need to include a link.
+## How to install the style
+1. Click on umea-university-harvard.csl above.
+2. Select ”Download raw file” on the right.
+3. Open the Zotero client and go to Edit > Preferences > Cite.
+4. Click on “+” next to “Get additional styles”.
+5. Browse to the downloads folder and click on the csl file.
+6. Click OK.
+
+The reference style is now ready for use. You must first install a plugin to create references in your Word document. Then, you can select the style under “Document preferences” in Word.
+
+You can find information about plugins for word processors on the [Zotero website](https://www.zotero.org/support/word_processor_integration).
 ## Manual adjustments you may need to make
 ### Organisation as author
 Some reports are sometimes authored by a government agency or another organisation. The same applies to web pages, blog posts, forum posts, and datasets, which may not have a named author.
