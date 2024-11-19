@@ -10,7 +10,7 @@ Generellt sätt så gäller det att inte ha med information som inte behövs. Al
 3. Öppna Zotero-programmet och gå till Redigera > Inställningar > Källhänvisa.
 4. Klicka på ”+” bredvid ”Få ytterligare stilar”. 
 5. Bläddra till mappen där filen hämtats ned och klicka på csl-filen.
-6. Klicka på OK.
+6. Klicka på Öppna.
 
 Stilen är nu redo att börja användas. Om du vill skapa referenser direkt i ditt Worddokument behöver du först installera ett plugin. Du väljer sedan stilen under ”Document preferences” i Word.
 
@@ -92,10 +92,10 @@ In general, it is important not to include information that is not needed. This 
 ## How to install the style
 1. Click on umea-university-oxford.csl above.
 2. Select ”Download raw file” on the right.
-3. Open the Zotero client and go to Edit > Preferences > Cite.
+3. Open the Zotero client and go to Edit > Settings > Cite.
 4. Click on “+” next to “Get additional styles”.
 5. Browse to the downloads folder and click on the csl file.
-6. Click OK.
+6. Click Open.
 
 The reference style is now ready for use. You must first install a plugin to create references in your Word document. Then, you can select the style under “Document preferences” in Word.
 
