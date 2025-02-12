@@ -3,7 +3,7 @@
 ## Inledning
 Den här dokumentationen beskriver hur du använder Zotero-stilmallen Umeå University - Oxford. 
 
-Generellt sätt så gäller det att inte ha med information som inte behövs. Alltså kan du behöva redigera en post i Zotero efter att du har importerat en referens. Till exempel så brukar URL-länkar följa med vid import och inkluderas ofta när du skapar en referens, men det är inte alltid du behöver ha med en länk i referensen.
+Generellt sett så gäller det att inte ha med information som inte behövs. Alltså kan du behöva redigera en post i Zotero efter att du har importerat en referens. Till exempel så brukar URL-länkar följa med vid import och inkluderas ofta när du skapar en referens, men det är inte alltid du behöver ha med en länk i referensen.
 ## Hur du installerar stilen
 1. Klicka på umea-university-oxford.csl ovan.
 2. Välj ”Download raw file” uppe till höger.
