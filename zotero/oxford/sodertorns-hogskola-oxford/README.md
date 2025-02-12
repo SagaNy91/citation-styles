@@ -3,7 +3,7 @@
 ## Inledning
 Den här dokumentationen beskriver hur du använder Zotero-stilmallen Södertörns högskola - Oxford. Du kan hitta och ladda ned stilen från Zoteros bibliotek för stilmallar: http://www.zotero.org/styles/sodertorns-hogskola-oxford 
 
-Generellt sätt så gäller det att inte ha med information som inte behövs. Alltså kan du behöva redigera en post i Zotero efter att du har importerat en referens. Till exempel så brukar URL-länkar följa med vid import och inkluderas ofta när du skapar en referens, men det är inte alltid du behöver ha med en länk i referensen.
+Generellt sett så gäller det att inte ha med information som inte behövs. Alltså kan du behöva redigera en post i Zotero efter att du har importerat en referens. Till exempel så brukar URL-länkar följa med vid import och inkluderas ofta när du skapar en referens, men det är inte alltid du behöver ha med en länk i referensen.
 ## Manuella justeringar du kan behöva göra
 ### Organisation som författare
 Rapporter är ibland författade av en myndighet eller en annan organisation. Detsamma gäller för till exempel webbsidor, blogg- och foruminlägg och dataset, som kan sakna en namngiven författare.
