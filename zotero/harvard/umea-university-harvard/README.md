@@ -1,4 +1,4 @@
-# Guide till Harvardmallen från Umeå universitet
+# Guide till Umeå universitets Harvard-stil
 [Documentation in English further down]
 ## Inledning
 Den här dokumentationen beskriver hur du använder Zotero-stilmallen Umeå University - Harvard.
